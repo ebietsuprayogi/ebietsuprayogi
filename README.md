@@ -4,7 +4,7 @@
 
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&theme=algolia&layout=compact)](https://github.com/stevenfernandes/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&theme=algolia&hide=tsql,css)](https://github.com/stevenfernandes/)
 
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=algolia)](https://github.com/stevenfernandes/himasistifowebsite)
