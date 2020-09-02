@@ -3,12 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ebietsy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebietsy/)](https://www.linkedin.com/in/ebietsy/) [![Github Badge](https://img.shields.io/badge/-stevenfernandes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stevenfernandes/)](https://www.github.com/stevenfernandes/) [![Twitter Badge](https://img.shields.io/badge/-ebietsuprayogi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ebietsuprayogi/)](https://www.twitter.com/ebietsuprayogi/)<p align='left'>My Name is Ebiet Suprayogi From Indonesia and Currently studying at Politeknik Caltex Riau as Information System student. Working with PHP.</p>
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=tsql,css&theme=buefy)](https://github.com/stevenfernandes/)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&theme=buefy&layout=compact)](https://github.com/stevenfernandes/)
 
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=graywhite)](https://github.com/stevenfernandes/himasistifowebsite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=CIxRESTFul-API&theme=graywhite)](https://github.com/stevenfernandes/CIxRESTFul-API)
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
