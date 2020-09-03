@@ -26,8 +26,8 @@
 
 
 ## 💻 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=algolia)](https://github.com/stevenfernandes/himasistifowebsite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=algolia)](https://github.com/stevenfernandes/SIAKMS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=vue)](https://github.com/stevenfernandes/himasistifowebsite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=vue)](https://github.com/stevenfernandes/SIAKMS)
 
 
 ## :beginner: Github Stats
