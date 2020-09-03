@@ -9,8 +9,7 @@
  </ul>
 
 ## 💻 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=algolia)](https://github.com/stevenfernandes/himasistifowebsite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=algolia)](https://github.com/stevenfernandes/SIAKMS)
+
 
 ## Language & Tools
 <a href="#">![html](https://user-images.githubusercontent.com/17777357/92082893-6115b280-edef-11ea-9fda-fbdd4332bff9.png)</a>
