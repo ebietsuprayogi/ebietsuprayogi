@@ -17,10 +17,14 @@
 <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
-
 ## 💻 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=algolia)](https://github.com/stevenfernandes/himasistifowebsite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=algolia)](https://github.com/stevenfernandes/SIAKMS)
+
+
+## Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,tsql&show_icons=true&theme=algolia)](https://github.com/stevenfernandes)
 
 ### 📞 Contact
 <a href="mailto:ebietsy@outlook.co.id">![email_me](https://user-images.githubusercontent.com/17777357/92083462-44c64580-edf0-11ea-8ece-7288bc8d719b.png)</a>
@@ -29,10 +33,3 @@
 <a href="https://instagram.com/ebietsy">![instagram](https://user-images.githubusercontent.com/17777357/92083471-4a239000-edf0-11ea-84c1-3d944b623984.png)</a>
 <a href="https://twitter.com/ebietsuprayogi">![twitter](https://user-images.githubusercontent.com/17777357/92083510-57407f00-edf0-11ea-9a8c-65b55b4c0b6f.png)</a>
 <a href="https://steamcommunity.com/id/ebietsy/">![steam](https://user-images.githubusercontent.com/17777357/92083491-51e33480-edf0-11ea-8d7a-220f6260dd17.png)</a>
-
-## Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,tsql&show_icons=true&theme=algolia)](https://github.com/stevenfernandes)
-
-<br>
-<p align='center'>:fire::fire::fire::fire::fire:Thanks:fire::fire::fire::fire::fire:</p>
