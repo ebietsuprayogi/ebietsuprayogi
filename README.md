@@ -16,7 +16,7 @@
 <a href="https://twitter.com/ebietsuprayogi">![twitter](https://user-images.githubusercontent.com/17777357/92083510-57407f00-edf0-11ea-9a8c-65b55b4c0b6f.png)</a>
 <a href="https://steamcommunity.com/id/ebietsy/">![steam](https://user-images.githubusercontent.com/17777357/92083491-51e33480-edf0-11ea-8d7a-220f6260dd17.png)</a>
 
-## Technologies
+## :zap: Technologies
 <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/></a>
