@@ -8,18 +8,19 @@
   <li> I love :cat: & :dog:</li>
  </ul>
 
+## Technologies
+<a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+
+
 ## 💻 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=algolia)](https://github.com/stevenfernandes/himasistifowebsite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=algolia)](https://github.com/stevenfernandes/SIAKMS)
-
-## Language & Tools
-<a href="#">![html](https://user-images.githubusercontent.com/17777357/92082893-6115b280-edef-11ea-9fda-fbdd4332bff9.png)</a>
-<a href="#">![php](https://user-images.githubusercontent.com/17777357/92082861-51966980-edef-11ea-97ca-c005b9f89f19.png)</a>
-<a href="#">![java](https://user-images.githubusercontent.com/17777357/92082969-7e4a8100-edef-11ea-8555-54289c711fdb.png)</a>
-<a href="#">![chrome](https://user-images.githubusercontent.com/17777357/92083025-915d5100-edef-11ea-9292-1cc74639334c.png)</a>
-<a href="#">![web](https://user-images.githubusercontent.com/17777357/92083051-9a4e2280-edef-11ea-8259-1ee7aef29165.png)</a>
-<a href="#">![visualstudio_code](https://user-images.githubusercontent.com/17777357/92083206-dda89100-edef-11ea-8966-9dc07a94f781.png)</a>
-<a href="#">![pc](https://user-images.githubusercontent.com/17777357/92083406-324c0c00-edf0-11ea-984c-fd4017cd803f.png)</a>
 
 ### 📞 Contact
 <a href="mailto:ebietsy@outlook.co.id">![email_me](https://user-images.githubusercontent.com/17777357/92083462-44c64580-edf0-11ea-8ece-7288bc8d719b.png)</a>
