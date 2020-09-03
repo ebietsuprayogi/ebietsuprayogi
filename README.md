@@ -26,11 +26,11 @@
 
 
 ## 💻 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=tokyonight)](https://github.com/stevenfernandes/himasistifowebsite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=tokyonight)](https://github.com/stevenfernandes/SIAKMS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=cobalt)](https://github.com/stevenfernandes/himasistifowebsite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=cobalt)](https://github.com/stevenfernandes/SIAKMS)
 
 
 ## :beginner: Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,tsql&show_icons=true&theme=algolia)](https://github.com/stevenfernandes)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,tsql&show_icons=true&theme=cobalt)](https://github.com/stevenfernandes)
 
