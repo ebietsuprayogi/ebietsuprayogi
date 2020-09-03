@@ -1,7 +1,7 @@
 # Hello fellas! 👋
 
 ## About me
-<p align='left'>My Name is Ebiet Suprayogi From Indonesia and Currently studying at Politeknik Caltex Riau as Information System student. Beside's programming :computer:, I enjoy eating food :rice: and gaming :video_game:.</p>
+<p align='left'>My Name Ebiet Suprayogi From Indonesia and Currently studying at Politeknik Caltex Riau as Information System student. Beside's programming :computer:, I enjoy eating food :rice: and gaming :video_game:.</p>
 <ul>
   <li> I’m currently working on something special! :satisfied:</li>
   <li> I’m currently learning MERN Stack :book:</li>
@@ -32,3 +32,6 @@
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,tsql&show_icons=true&theme=algolia)](https://github.com/stevenfernandes)
+
+<br>
+<p align='center'>:fire::fire::fire::fire::fire:Thanks:fire::fire::fire::fire::fire:</p>
