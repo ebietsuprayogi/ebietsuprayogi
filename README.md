@@ -23,7 +23,6 @@
 
 
 ## 💻 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=himasistifowebsite&theme=cobalt)](https://github.com/stevenfernandes/himasistifowebsite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=cobalt)](https://github.com/stevenfernandes/SIAKMS)
 
 
