@@ -22,10 +22,6 @@
 <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
-## 💻 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenfernandes&repo=SIAKMS&theme=cobalt)](https://github.com/stevenfernandes/SIAKMS)
-
-
 ## :beginner: Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenfernandes&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfernandes&hide=css,scss,tsql&show_icons=true&theme=cobalt)](https://github.com/stevenfernandes)
