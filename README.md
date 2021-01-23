@@ -4,7 +4,7 @@
 <p align='left'>My Name Ebiet Suprayogi From Indonesia and Currently studying at Politeknik Caltex Riau as Information System student. Beside's programming :computer:, I enjoy eating food :rice: and gaming :video_game:.</p>
 <ul>
   <li> I’m currently working on something special! :satisfied:</li>
-  <li> I’m currently learning MERN Stack :book:</li>
+  <li> I’m currently learning CodeIgniter :book:</li>
   <li> I love :cat: & :dog:</li>
  </ul>
 
