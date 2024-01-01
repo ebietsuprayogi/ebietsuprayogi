@@ -5,6 +5,7 @@
 
 <ul>
   <li>Currently working on a private project (details undisclosed).</li>
+  <li>Exploring Web3 for automation and bot development.</li>
   <li>Animal lover :cat: & :dog:</li>
 </ul>
 
@@ -26,6 +27,7 @@
 
 ## :rocket: Projects
 - **Private Project:** Currently working on an undisclosed private project.
+- **Web3 Exploration:** Delving into the world of Web3 for automation and bot development.
 
 ## :link: Portfolio
 Visit my [portfolio website](https://ebietsy.vercel.app/) to explore more of my works and experiences!
